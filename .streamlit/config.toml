@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#A084E8"               # Soft lavender (buttons, accents)
+backgroundColor = "#FDF6FD"            # Very light pink/peach background
+secondaryBackgroundColor = "#F2E9FB"   # Light lavender for widgets
+textColor = "#3B3B3B"                  # Soft dark gray text
+font = "sans serif"

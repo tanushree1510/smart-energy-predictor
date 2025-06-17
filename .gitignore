@@ -1,0 +1,13 @@
+*.pkl
+*.csv
+*.keras
+.DS_Store
+*.pkl
+*.csv
+.DS_Store
+*.pkl
+*.csv
+*.keras
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
