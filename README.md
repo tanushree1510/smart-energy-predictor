@@ -115,5 +115,22 @@ energy-consumption-predictor/
 - UCI Energy Efficiency Dataset
 - Scikit-Learn, XGBoost, Streamlit Libraries
 
-##  Demo Link
-https://smart-energy-predictor-6pjsgmzqp5ibmwplbs7bbz.streamlit.app/
+## 🌐 Live Demo
+
+👉 [Try the Smart Energy Predictor Web App](https://smart-energy-predictor-6pjsgmzqp5ibmwplbs7bbz.streamlit.app/)
+
+---
+
+## 🏃‍♀️ How to Run Locally
+
+Make sure you have Python 3.9+ installed.
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/tanushree1510/smart-energy-predictor.git
+   cd smart-energy-predictor
+
+
+Built using Streamlit • Predicts future energy consumption with ML models like XGBoost, Random Forest, and Linear Regression.
+
+
