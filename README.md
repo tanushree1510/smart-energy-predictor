@@ -1,6 +1,13 @@
 # 🏡 Energy Consumption Predictor
 
-This is a machine learning-powered web application that predicts household energy consumption based on indoor and outdoor environmental parameters using an XGBoost regression model.
+This is a machine learning-powered web application that predicts household energy consumption based on indoor and outdoor environmental parameters using an XGBoost regression model. 
+
+🔍 Note on Predictions
+Disclaimer: This application simulates household energy usage predictions based on input parameters like temperature, humidity, and device-level conditions. It is not connected to actual household appliances or IoT devices, so the predictions are estimates based on a trained machine learning model and not real-time consumption data.
+
+The purpose of this project is to demonstrate the predictive capability of machine learning models using publicly available datasets. For real-time energy monitoring, further integration with smart sensors and IoT infrastructure would be required.
+
+
 
 ---
 
